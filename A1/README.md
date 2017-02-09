@@ -6,6 +6,7 @@ Testeado sobre:
 
 ##Instalación de Java
 sudo apt-get install default-jdk
+
 java -version 
 
 ##Configuración de usuario
