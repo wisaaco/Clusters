@@ -123,4 +123,6 @@ http://<host>:50070
 ```
 #TODO:
 - Configuración de Yarn: http://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-common/SingleCluster.html#YARN_on_Single_Node
-```http://<host>:8088```
+```
+http://<host>:8088
+```
