@@ -1,8 +1,8 @@
 #Cluster de Apache SPARK con 6 nodos
 
 testeado:
--Centos7
--Spark 2.1.0
+- Centos7
+- Spark 2.1.0
 
 
 ##Actividad
