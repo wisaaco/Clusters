@@ -42,3 +42,7 @@ source ~/.bashrc
 
 ##Running spark:
 spark-shell
+
+```
+http://<host>:4040
+```
