@@ -46,6 +46,11 @@ spark-shell
 ```
 http://<host>:4040
 ```
+##Ejemplo:
+```
+val data = 1 to 100000
+sc.parallelize(data).sum()
+```
 
 ##Actividad:
 Utilizando el primer cluster (A1) realizamos nuestro contar frecuencia de palabras: http://spark.apache.org/
