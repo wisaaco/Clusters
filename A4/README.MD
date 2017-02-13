@@ -48,7 +48,7 @@ http://<host>:4040
 ```
 ##Ejemplo:
 ```
-val data = 1 to 100000
+val data = 1 to 1000000000
 sc.parallelize(data).sum()
 ```
 
