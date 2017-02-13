@@ -6,3 +6,4 @@ Código para las prácticas de la asignatura de "Gestión y Almacenamiento de Da
 - A3. Cloudera sobre docker
 - A4. Apache SPARK y Scala
 - A5. Cluster de Apache Spark
+- A6. Apache Zeppelin
