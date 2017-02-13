@@ -46,3 +46,14 @@ spark-shell
 ```
 http://<host>:4040
 ```
+
+##Actividad:
+Utilizando el primer cluster (A1) realizamos nuestro contar frecuencia de palabras: http://spark.apache.org/
+
+```
+text_file = spark.textFile("hdfs://...")
+ 
+text_file.flatMap(lambda line: line.split())
+    .map(lambda word: (word, 1))
+```
+    .reduceByKey(lambda a, b: a+b)
