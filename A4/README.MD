@@ -63,3 +63,12 @@ text_file.flatMap(lambda line: line.split())
     .reduceByKey(lambda a, b: a+b)
 ```
    
+# O con python
+Tener configurado python en Centos: 
+```
+yum -y install epel-release
+yum install python-pip python-wheel
+pip install pandas
+```
+pyspark
+
