@@ -69,6 +69,7 @@ Tener configurado python en Centos:
 yum -y install epel-release
 yum install python-pip python-wheel
 pip install pandas
+pip install matplotlib
 ```
 pyspark
 
