@@ -5,7 +5,7 @@ Testeado sobre:
 - Apache Hadoop 2.7.3 / 3.0.0
 
 # 1 Instalación de Java: JDK free o JDF de Oracle
-## 1.a
+## 1.a Instalación JDK free o .. 1.b
 ```
 sudo apt-get install default-jdk
 java -version 
