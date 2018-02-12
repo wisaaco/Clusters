@@ -7,7 +7,9 @@ Testeado sobre:
 Tutorial complementario:
 - https://es.hortonworks.com/blog/deploying-hadoop-cluster-amazon-ec2-hortonworks/
 
-# TODO: Activación user root en SSH config
+# Activación user root en SSH config
+Por vuestra cuenta vi /etc/ssh/ssh_config
+ 
 ## Instalación de NTP
 ```
 sudo apt-get update
