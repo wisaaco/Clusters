@@ -4,6 +4,9 @@ Testeado sobre:
 - Ubuntu Server 14.02
 - Apache Ambari 2.2.2
 
+Tutorial complementario:
+- https://es.hortonworks.com/blog/deploying-hadoop-cluster-amazon-ec2-hortonworks/
+
 # TODO: Activación user root en SSH config
 ## Instalación de NTP
 ```
@@ -43,8 +46,10 @@ apt-get update
 apt-get install ambari-server
 ambari-server setup
 ambari-server start
+```
 
 # Continuar con la instalación de Hadoop Cluster con el instalador Apache Ambari 
+
 ```
 http://<ambari-server-host>:8080
 ```
