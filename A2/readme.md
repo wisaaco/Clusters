@@ -18,7 +18,7 @@ sudo apt-get install ntp
 ## Definir HOSTNAMEs en todos los nodos
 Añadir el nombre de la máquina
 ```
-/etc/hosts
+vi /etc/hosts
 ```
 
 ## Configuración SSH password less
