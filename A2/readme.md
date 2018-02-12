@@ -5,6 +5,7 @@ Testeado sobre:
 - Apache Ambari 2.2.2
 
 Tutorial complementario:
+- Doc oficial: https://cwiki.apache.org/confluence/display/AMBARI/Installation+Guide+for+Ambari+2.6.1
 - https://es.hortonworks.com/blog/deploying-hadoop-cluster-amazon-ec2-hortonworks/
 
 # Activación user root en SSH config
