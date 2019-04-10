@@ -107,9 +107,11 @@ docker inspect <container>
 ```
 
 #### Varios
+```
 docker container ls
 docker container stop <container>
 docker container ls -a
 docker container rm <container>
 docker image ls
 docker image rm <image>
+```
