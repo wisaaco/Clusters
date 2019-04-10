@@ -69,30 +69,44 @@ Como crear un cluster hadoop con varios containers
 https://medium.com/@marcovillarreal_40011/creating-a-spark-standalone-cluster-with-docker-and-docker-compose-ba9d743a157f
 
 
-### DOCKER COMMANDS
+### DOCKER COMMANDS
 
 Detach:
+```
 Ctrl+p y Ctrl+q 
+```
 
 Attach:
+```
 docker attach <container>
+```
 
 Ver en ejecución
+```
 docker ps 
+```
 
 Ver containers:
+```
 docker ps -a
+```
 
 Ver un container en detalle:
+```
 docker inspect <container>
+```
 
 ¿Cómo compartir una carpeta?
+```
  -v ~/hola:/home/user/adios
+ ```
 
 ¿Cómo asignarles un nombre?
+```
 --name=mypig 
+```
 
-Varios:
+#### Varios
 docker container ls
 docker container stop <container>
 docker container ls -a
