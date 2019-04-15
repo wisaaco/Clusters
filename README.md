@@ -59,6 +59,7 @@ docker run --name=myhadoop -it  sequenceiq/hadoop-docker:2.7.1  /etc/bootstrap.s
 
 Desde el proyecto BBVADATA, han creado está interesante imagen, con un notebook de jupiter para crear aplicaciones de SPARK con PySPARK
 https://github.com/bbvadata/docker-blog-example
+(Ejemplos de SPARK: https://github.com/tmcgrath/spark-with-python-course)
 
 O una versión más cruda en:
 https://hub.docker.com/r/sequenceiq/spark/
