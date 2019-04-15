@@ -114,4 +114,5 @@ docker container ls -a
 docker container rm <container>
 docker image ls
 docker image rm <image>
+docker exec -it <container name> /bin/bash
 ```
